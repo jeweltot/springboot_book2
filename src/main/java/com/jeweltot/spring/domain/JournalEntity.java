@@ -1,4 +1,4 @@
-package com.spectra.spring.domain;
+package com.jeweltot.spring.domain;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -12,7 +12,7 @@ import javax.persistence.Transient;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import com.spectra.spring.util.JsonDateSerializer;
+import com.jeweltot.spring.util.JsonDateSerializer;
 
 @Entity
 @Table(name = "entity")

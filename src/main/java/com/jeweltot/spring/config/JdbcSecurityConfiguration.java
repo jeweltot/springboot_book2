@@ -1,4 +1,4 @@
-package com.spectra.spring.config;
+package com.jeweltot.spring.config;
 
 import java.sql.ResultSet;
 

@@ -1,4 +1,4 @@
-package com.spectra.spring.util;
+package com.jeweltot.spring.util;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;

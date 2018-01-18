@@ -1,6 +1,6 @@
-package com.spectra.spring.web;
+package com.jeweltot.spring.web;
 
-import com.spectra.spring.repository.JournalRepository;
+import com.jeweltot.spring.repository.JournalRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

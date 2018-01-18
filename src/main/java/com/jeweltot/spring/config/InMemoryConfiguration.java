@@ -1,4 +1,4 @@
-package com.spectra.spring.config;
+package com.jeweltot.spring.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
